@@ -2,6 +2,8 @@
 
 ## LAB2_GetSensorValue.aia
 
+備註：已經把所有目標完成在同一份 Project 上 (`GetSensorValue.aia`) 。
+
 ## 目標 - App-side
 
 1. 按下按鈕，顯示手機上的三種sensor，Accelerometer、OrientationSensor、LocationSensor的資料
@@ -54,7 +56,9 @@ curl -X GET 192.168.1.3:1880/locations/12
 ## 呈現
 
 介面
+
 ![ui](img/ui.png)
 
 Node-Red
+
 ![flow](img/flows.png)
