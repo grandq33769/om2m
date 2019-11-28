@@ -25,7 +25,7 @@
 
 ## Postman - 完成畫面
 
-![finish](img/postman-finished.png)
+![postman-finish](img/postman-finished.png)
 
 ## LAB3_OM2M GA with Node-red
 
@@ -39,10 +39,18 @@
 4. Create a "DATA" container
 5. Create a "DATA contentInsances"
 6. 在 GA(node-red) 開啟 /sensorData Server 負責轉傳 data 到 OM2M
+![gscl-save-data](img/GSCL-save-data.png)
 
 ## GA - 作法
 
 1. 依據 `Lab 3.pdf` 執行
+
+## GA - 完成畫面
+
+Flows
+![gscl-flows](img/GSCL-flows.png)
+Web
+![gscl-finished](img/GSCL-finished.png)
 
 ## LAB3_OM2M NA with Node-red
 
@@ -53,7 +61,17 @@
 1. Create a "MY_NETWORK_APPLICATION"
 2. Subscribe and save new contentInsatnace in the `gscl/MYSENSOR/DATA`
 3. 開啟 /getxmlfile Server 負責讀取先前儲存的資料
+![nscl-get-xml](img/NSCL-get-xml.png)
 
 ## NA - 作法
 
 1. 依據 `Lab 3.pdf` 執行
+
+## NA - 完成畫面
+
+Flows
+![nscl-flows](img/NSCL-flows.png)
+Webs(GSCL)
+![nscl-subscription](img/NSCL-subscription.png)
+Webs(NSCL)
+![nscl-announce](img/NSCL-announce.png)
