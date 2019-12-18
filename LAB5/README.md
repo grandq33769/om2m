@@ -59,7 +59,10 @@ Lamb Simulator
 ![Lamb-simulator](img/lab-5-1.png)
 
 Node-Red flow diagram
-![gscl](img/flow-GSCL.png)
+![gscl-flow](img/flow-GSCL.png)
+
+GSCL interface
+![gscl-interface](img/gscl.png)
 
 ## LAB-5.2 Build lamp controller app
 
